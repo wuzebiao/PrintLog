@@ -1,0 +1,2 @@
+include ':loglibrary'
+rootProject.name = "PrintLog"
